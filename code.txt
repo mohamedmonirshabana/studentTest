@@ -1,2 +1,3 @@
 import x 
 print 
+play super mario
